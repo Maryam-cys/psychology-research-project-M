@@ -12,3 +12,5 @@ The purpose of this project is to understand stress and explore simple ways to m
 2. Explain changes through commit messages.
 # Privacy Reminder
 Personal records and identifiable participant data must not be uploaded.
+## Next Step
+Explore simple stress management techniques for university students.
